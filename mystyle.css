@@ -43,3 +43,10 @@ figcaption {
 div {
     background-color: rgba(181, 255, 214, 0.568);
 }
+
+#knitting {
+    width: 200px; 
+    height: 300px; 
+    object-fit: cover;
+    object-position: 50% 50%;
+}
