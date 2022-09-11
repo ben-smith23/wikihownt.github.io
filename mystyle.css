@@ -80,3 +80,10 @@ div {
     font-size: smaller;
     font-family: papyrus;
   }
+
+  .will{
+    width: 1000px; 
+    height: 500px; 
+    object-fit: cover;
+    object-position: 100% 0%; 
+}
