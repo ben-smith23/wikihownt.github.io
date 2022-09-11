@@ -2,6 +2,7 @@ h1 {
     background-color: rgb(90, 202, 90);
     text-align: center;
     font-size: 80px;
+    text-decoration: none;
     }
 
 .wiki{
@@ -65,5 +66,5 @@ div {
   }
 
   a {
-    color: rgb(211, 113, 203);
+    color: rgb(109, 78, 145);
   }
