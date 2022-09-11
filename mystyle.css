@@ -57,3 +57,13 @@ div {
     object-fit: cover;
     object-position: 50% 50%; 
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+
+  a {
+    color: rgb(211, 113, 203);
+  }
