@@ -50,3 +50,10 @@ div {
     object-fit: cover;
     object-position: 50% 50%;
 }
+
+.chimp{
+    width: 1000px; 
+    height: 500px; 
+    object-fit: cover;
+    object-position: 50% 50%; 
+}
